@@ -1,0 +1,10 @@
+.git
+.gitignore
+__pycache__
+*.pyc
+venv
+.venv
+.env
+test_app.py
+requirements-dev.txt
+README.md
